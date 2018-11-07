@@ -13,7 +13,7 @@
 列表就是数组，但其强大的地方在于列表中的元素可以是不同类型的
 
 - [循环遍历列表](StringLearn/forAndWhile.py)
-- [列表相关操作]()
+- [列表相关操作](StringLearn/listOpeartion.py)
 
 #### 3.元组
 [元组](StringLearn/tuple.py)
